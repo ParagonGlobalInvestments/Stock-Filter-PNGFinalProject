@@ -6,3 +6,4 @@ pandas-datareader==0.10.0
 Quandl==3.7.0
 openpyxl==3.0.7
 numpy==1.22.0
+streamlit==1.16.0
