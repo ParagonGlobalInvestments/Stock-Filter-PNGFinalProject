@@ -4,3 +4,6 @@ yfinance==0.1.68
 pandas==1.3.5
 pandas-datareader==0.10.0
 Quandl==3.7.0
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work\
+numpy==1.22.0
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
